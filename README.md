@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm passionate about web development, machine learning, and building innovative projects.
 
 ## 🚀 About Me
-- 💻 Web & Software Developer improving DSA and problem-solving.
+- 💻 Building scalable applications and improving problem-solving with DSA. 
 - 🤖 Currently exploring Deep Learning and AI applications
-- 📚 Love to read read, and explore new technologies
+- 📚 Love to read and enthusiastic about finance
 
 ## 📊 GitHub Stats
 ![Avishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avishi2511&show_icons=true&theme=radical)

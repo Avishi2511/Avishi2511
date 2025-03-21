@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about web development, machine lear
 
 ## 📊 GitHub Stats
 ![Avishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avishi2511&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishi2511&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishi2511&layout=compact&theme=radical&hide=jupyter%20notebook)
 
 ## 🛠️ Languages & Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)

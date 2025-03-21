@@ -3,13 +3,12 @@
 Welcome to my GitHub profile! I'm passionate about web development, machine learning, and building innovative projects.
 
 ## 🚀 About Me
-- 💻 Web & Software Developer diving deeper into DSA
-- 🤖 Currently exploring Deep Learning and XAI
-- 📚 Love reading, and ofc exploring new technologies
+- 💻 Web & Software Developer improving DSA and problem-solving.
+- 🤖 Currently exploring Deep Learning and AI applications
+- 📚 Love to read read, and explore new technologies
 
 ## 📊 GitHub Stats
 ![Avishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avishi2511&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishi2511&layout=compact&theme=radical&hide=jupyter%20notebook)
 
 ## 🛠️ Languages & Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)

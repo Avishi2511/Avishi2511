@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm passionate about web development, machine lear
 Feel free to explore my repositories and connect with me!  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Avishi2511-181717?style=for-the-badge&logo=github)](https://github.com/Avishi2511)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avishi2511-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![Gmail](https://img.shields.io/badge/Gmail-avishi2511@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishi2511@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avishi2511-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishi-mittal)  
+[![Gmail](https://img.shields.io/badge/Gmail-avishi2511@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishimittal2004@gmail.com)  
 
 ---
 💡 *Always learning, always building!*

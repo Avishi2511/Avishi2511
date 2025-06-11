@@ -1,6 +1,6 @@
 # Hi there, I'm Avishi! 👋
 
-Welcome to my GitHub profile! I'm passionate about web development, machine learning, and building innovative projects.
+Welcome to my GitHub profile! I'm passionate about building innovative projects.
 
 ## 🚀 About Me
 - 💻 Building MERN applications and improving problem-solving with DSA. 
@@ -40,5 +40,3 @@ Feel free to explore my repositories and connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Avishi_Mittal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishi-mittal)  
 [![Gmail](https://img.shields.io/badge/Gmail-avishimittal2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishimittal2004@gmail.com)  
 
----
-💡 *Always learning, always building!*

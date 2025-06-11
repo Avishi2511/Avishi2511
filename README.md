@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about web development, machine learning, and building innovative projects.
 
 ## 🚀 About Me
-- 💻 Building scalable applications and improving problem-solving with DSA. 
-- 🤖 Currently exploring Deep Learning and AI applications
+- 💻 Building MERN applications and improving problem-solving with DSA. 
+- 🤖 Currently exploring various AI applications, tools and techniques
 - 📚 Love to read and enthusiastic about finance
 
 ## 📊 GitHub Stats

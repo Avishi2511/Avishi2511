@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative projects.
 
 ## 📊 GitHub Stats
 ![Avishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avishi2511&show_icons=true&theme=radical)
+![Avishi's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharbecoding&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
 ## Tech Stack
 

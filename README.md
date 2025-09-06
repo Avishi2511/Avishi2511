@@ -1,15 +1,25 @@
-# Hi there, I'm Avishi! 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=800080&height=200&section=header&text=Hi!%20I%20am%20Avishi%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<h1 align="center">
 Welcome to my GitHub profile! I'm passionate about building innovative projects.
+</h1>
+<br>
 
 ## 🚀 About Me
 - 💻 Building MERN applications and improving problem-solving with DSA. 
 - 🤖 Currently exploring various AI applications, tools and techniques
 - 📚 Love to read and enthusiastic about finance
+<br>
 
 ## 📊 GitHub Stats
-![Avishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avishi2511&show_icons=true&theme=radical)
-![Avishi's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharbecoding&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avishi2511&show_icons=true&theme=midnight-purple" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishi2511&hide_progress=true&theme=midnight-purple" width="365"/>
+</p>
+
+<br>
 
 ## Tech Stack
 
@@ -147,12 +157,24 @@ Welcome to my GitHub profile! I'm passionate about building innovative projects.
   </tr>
 </table>
 
+<br>
+<h2 align = "center">
+  📬 Let's Connect
+  </h2>
 
-## 📬 Let's Connect
+<p align="center">
+  <a href="https://github.com/Avishi2511">
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/avishi-mittal">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:avishimittal2004@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail"/>
+  </a>
+</p>
+  
 
-Feel free to explore my repositories and connect with me!  
-
-[![GitHub](https://img.shields.io/badge/GitHub-Avishi2511-181717?style=for-the-badge&logo=github)](https://github.com/Avishi2511)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Avishi_Mittal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avishi-mittal)  
-[![Gmail](https://img.shields.io/badge/Gmail-avishimittal2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishimittal2004@gmail.com)  
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
+</p>

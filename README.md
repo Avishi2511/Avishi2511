@@ -3,11 +3,12 @@
 </p>
 
 <h1 align="center">
-Welcome to my GitHub profile! I'm passionate about building innovative projects.
+<p>Welcome to my GitHub profile!</p> 
+<p>I'm passionate about building innovative projects.</p>
 </h1>
 <br>
 
-## 🚀 About Me
+## 👩‍💻 About Me
 - 💻 Building MERN applications and improving problem-solving with DSA. 
 - 🤖 Currently exploring various AI applications, tools and techniques
 - 📚 Love to read and enthusiastic about finance
@@ -21,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative projects.
 
 <br>
 
-## Tech Stack
+## 🚀 Tech Stack
 
 ### 🔹 Languages  
 <table>
@@ -87,12 +88,16 @@ Welcome to my GitHub profile! I'm passionate about building innovative projects.
       <br>Matplotlib
     </td>
     <td align="center" width="96">
-      <img src="https://static-00.iconduck.com/assets.00/beautifulsoup-icon-512x512-6n7lzq9t.png" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="BeautifulSoup"/>
       <br>BeautifulSoup
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/slundberg/shap/master/docs/artwork/shap_icon.png" width="40" height="40"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="40" height="40" alt="SHAP"/>
       <br>SHAP
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+      <br>Skikit-Learn
     </td>
   </tr>
 </table>
@@ -119,7 +124,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative projects.
       <br>FastAPI
     </td>
   <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/langchain.png" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="40" height="40" alt="LangChain"/>
       <br>LangChain
     </td>
   </tr>

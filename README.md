@@ -15,6 +15,13 @@
 <br>
 
 ## 📊 GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/Avishi2511/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Avishi2511's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Avishi2511&theme=midnight-purple"/>
+    </a>
+</p>
+
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avishi2511&show_icons=true&theme=midnight-purple" width="410"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishi2511&hide_progress=true&theme=midnight-purple" width="365"/>

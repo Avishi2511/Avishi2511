@@ -24,7 +24,7 @@
 
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avishi2511&show_icons=true&theme=midnight-purple" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishi2511&hide_progress=true&theme=midnight-purple" width="365"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avishi2511&langs_count=8&layout=compact&hide_progress=true&theme=midnight-purple" width="310"/>
 </p>
 
 <br>
